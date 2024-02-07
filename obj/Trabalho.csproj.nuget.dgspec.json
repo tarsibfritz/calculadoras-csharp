@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Trabalho\\Trabalho.csproj": {}
+    "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Menu-Calculadoras\\Trabalho.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Trabalho\\Trabalho.csproj": {
+    "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Menu-Calculadoras\\Trabalho.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Trabalho\\Trabalho.csproj",
+        "projectUniqueName": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Menu-Calculadoras\\Trabalho.csproj",
         "projectName": "Trabalho",
-        "projectPath": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Trabalho\\Trabalho.csproj",
+        "projectPath": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Menu-Calculadoras\\Trabalho.csproj",
         "packagesPath": "C:\\Users\\tarsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Trabalho\\obj\\",
+        "outputPath": "C:\\Users\\tarsi\\OneDrive\\Documents\\DevFullStack3\\aula-funcoes-repeticao\\Menu-Calculadoras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
