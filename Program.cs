@@ -26,6 +26,7 @@ while (condicao == "executar")
             break;
         case "0":
             condicao = "sair";
+            Console.WriteLine("\nObrigada por utilizar nosso programa!");
             break;
         default:
             Console.WriteLine("\nO número digitado é inválido, tente novamente.");
