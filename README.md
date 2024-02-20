@@ -1,8 +1,8 @@
-# Menu de Calculadoras Funcional com C#
+# 📔 Menu de Calculadoras Funcional com C#
 
 Projeto criado para o curso Rio Pomba Valley(RPV) com o objetivo de desenvolver um menu de calculadoras funcional com C#.
 
-## Projeto: ## 
+## 👾 Projeto: 
 
 - 🧮 __Menu de Funções:__ escolha qual calculadora deseja executar;
 - ➡️ __Calculadora Básica:__ uma calculadora com as quatro propriedades matemáticas (adição, subtração, divisão e multiplicação);
